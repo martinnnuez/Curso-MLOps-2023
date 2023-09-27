@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="600" src="https://fundacionsadosky.org.ar/wp-content/uploads/2022/08/logo.png" alt="Fundación Sadosky">
+    <img width="500" src="https://fundacionsadosky.org.ar/wp-content/uploads/2022/08/logo.png" alt="Fundación Sadosky">
 </p>
 
 # **Ciencia de Datos e Inteligencia Artificial para la industria del software**
@@ -12,7 +12,9 @@
 
 MLOps es una extensión de la metodología DevOps que pretende incorporar activos de aprendizaje automático y ciencia de datos como ciudadanos de primera clase en la ecología DevOps.
 
-![MLOps](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/MLOps_venn_diagram.png/733px-MLOps_venn_diagram.png)
+<p align="center">
+    <img width="500" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/MLOps_venn_diagram.png/733px-MLOps_venn_diagram.png" alt="MLOps">
+</p>
 
 ### Contenido del curso
 
