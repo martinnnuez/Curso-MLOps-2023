@@ -18,7 +18,7 @@ MLOps es una extensión de la metodología DevOps que pretende incorporar activo
 
 ### Contenido del curso
 
-* **Clase 0 Introduccion:**
+#### - **Clase 0 Introduccion:**
 
     * Problematica de los Jupyter Notebooks para el MLops.
 
@@ -34,7 +34,7 @@ MLOps es una extensión de la metodología DevOps que pretende incorporar activo
 
         * Anaconda
 
-* **Clase 1 Análisis de datos:**
+#### - **Clase 1 Análisis de datos:**
     
     * Analizaremos la base de datos que utilizaremos a lo largo del curso.
     *Exploratory Data Analysis (EDA)*
@@ -45,7 +45,7 @@ MLOps es una extensión de la metodología DevOps que pretende incorporar activo
 
     * Exportar modelos predictivos. 
 
-* **Clase 2 Experiment tracking and model management:**
+#### - **Clase 2 Experiment tracking and model management:**
 
     * Experiment tracking intro
     
@@ -61,7 +61,7 @@ MLOps es una extensión de la metodología DevOps que pretende incorporar activo
 
         * MLflow
 
-* **Clase 3 Orchestration:**
+#### - **Clase 3 Orchestration:**
     
     * Introduction to Workflow Orchestration
 
@@ -74,7 +74,7 @@ MLOps es una extensión de la metodología DevOps que pretende incorporar activo
         * Prefect
 
 
-* **Clase 4 Deployment:**
+#### - **Clase 4 Deployment:**
 
     * Formas de hacer un deploy de modelo
 
@@ -86,7 +86,7 @@ MLOps es una extensión de la metodología DevOps que pretende incorporar activo
         
         * Docker
 
-* **Clase 5 Web Deployment:**
+#### - **Clase 5 Web Deployment:**
 
     * Deploying un modelo como un servicio web en Hugging Face
     
