@@ -20,15 +20,15 @@ MLOps es una extensión de la metodología DevOps que pretende incorporar activo
 
 #### - **Clase 0 Introduccion:**
 
-    * Problematica de los Jupyter Notebooks para el MLops.
+* Problematica de los Jupyter Notebooks para el MLops.
 
-    * Descripción del set de datos que utilizaremos.
+* Descripción del set de datos que utilizaremos.
 
-    * ¿Qué es el MLOps?
+* ¿Qué es el MLOps?
 
-    * Preparación del environment.
+* Preparación del environment.
 
-    Servicios explorados:
+Servicios explorados:
 
         * GitHub
 
@@ -36,62 +36,61 @@ MLOps es una extensión de la metodología DevOps que pretende incorporar activo
 
 #### - **Clase 1 Análisis de datos:**
     
-    * Analizaremos la base de datos que utilizaremos a lo largo del curso.
-    *Exploratory Data Analysis (EDA)*
+* Analizaremos la base de datos que utilizaremos a lo largo del curso. *Exploratory Data Analysis (EDA)*
 
-    * Prerpocesamiento de datos. 
+* Prerpocesamiento de datos. 
 
-    * Entrenamiento de un modelo predictivo. 
+* Entrenamiento de un modelo predictivo. 
 
-    * Exportar modelos predictivos. 
+* Exportar modelos predictivos. 
 
 #### - **Clase 2 Experiment tracking and model management:**
 
-    * Experiment tracking intro
-    
+* Experiment tracking intro
+
+* MLflow
+
+* Experiment tracking con MLflow y MLflow UI
+
+* Model management
+
+* Model registry
+
+Servicios explorados:
+
     * MLflow
 
-    * Experiment tracking con MLflow y MLflow UI
-
-    * Model management
-
-    * Model registry
-
-    Servicios explorados:
-
-        * MLflow
-
 #### - **Clase 3 Orchestration:**
-    
-    * Introduction to Workflow Orchestration
 
-    * Introduction to Prefect
+* Introduction to Workflow Orchestration
 
-    * Prefect Workflow
+* Introduction to Prefect
 
-    Servicios explorados:
+* Prefect Workflow
 
-        * Prefect
+Servicios explorados:
+
+    * Prefect
 
 
 #### - **Clase 4 Deployment:**
 
-    * Formas de hacer un deploy de modelo
+* Formas de hacer un deploy de modelo
 
-    * Deploying un modelo como un servicio web
+* Deploying un modelo como un servicio web
+
+Servicios explorados:
+
+    * Flask
     
-    Servicios explorados:
-    
-        * Flask
-        
-        * Docker
+    * Docker
 
 #### - **Clase 5 Web Deployment:**
 
-    * Deploying un modelo como un servicio web en Hugging Face
+* Deploying un modelo como un servicio web en Hugging Face
+
+Servicios explorados:
+
+    * Hugging Face
     
-    Servicios explorados:
-    
-        * Hugging Face
-        
-        * Gradio
+    * Gradio
