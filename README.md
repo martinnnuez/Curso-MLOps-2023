@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://fundacionsadosky.org.ar/wp-content/uploads/2022/08/logo.png" alt="Fundación Sadosky">
+    <img width="600" src="https://fundacionsadosky.org.ar/wp-content/uploads/2022/08/logo.png" alt="Fundación Sadosky">
 </p>
 
 # **Ciencia de Datos e Inteligencia Artificial para la industria del software**
