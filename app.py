@@ -20,11 +20,12 @@ def predict(features):
     preds = model.predict(X)
     return float(preds[0])
 
-def main(X1,X2):
+def main(PULocationID,DOLocationID,trip_distance):
     """request input, preprocess it and make prediction"""
     input_data = {
-    "PU_DO": X1,
-    "trip_distance": X2
+    "PULocationID": PULocationID,
+    "DOLocationID": DOLocationID,
+    "trip_distance": trip_distance
     }
     features = prepare_features(input_data)
     pred = predict(features)
@@ -35,11 +36,11 @@ def main(X1,X2):
 
     return result
 
-def classify_image(img):
 #create input and output objects
 #input
 input1 = gr.inputs.Number()
 input2 = gr.inputs.Number()
+input3 = gr.inputs.Number()
 
 #output object
 output = gr.outputs.Textbox() 
@@ -47,7 +48,7 @@ output = gr.outputs.Textbox()
 intf = gr.Interface(title = "New York taxi duration prediction",
                     description = "The objective of this project is to predict the duration of a taxi trip in the city of New York.",
                     fn=main, 
-                    inputs=[input1,input2], 
+                    inputs=[input1,input2,input3], 
                     outputs=[output], 
                     live=True,
                     enable_queue=True
